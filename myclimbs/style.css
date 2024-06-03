@@ -1,0 +1,27 @@
+#content{
+    width: 888px;
+}
+.kepszoveg{
+    text-align: center;
+    font-style: italic;
+    font-style: bold;
+}
+h1, h2{
+    color: forestgreen;
+    text-transform: uppercase;
+}
+ol li{
+    text-align: justify;
+}
+ul li{
+    text-align: justify;
+}
+#imageleft{
+    border-right: 40px 80px;
+}
+#imageright{
+    border-left: 20px;
+}
+#link{
+    color: blue;
+}
